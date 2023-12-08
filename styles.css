@@ -1,16 +1,18 @@
 body {
-    background-color: hsl(220, 15%, 55%);
+    background-color: #D6E1F0;
     text-align: center;
     margin: 0px;
-    padding: 130px 0px;
     font-family: 'Outfit', serif;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content:center;
 }
 
 div {
     background-color: hsl(0, 0%, 100%);
     width:240px;
     height: 380px;
-    margin:  auto auto;
     border-radius: 3%;
     padding: 10px;
 }
